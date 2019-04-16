@@ -1,4 +1,4 @@
-# flask-scikit-demo
+# zappa-flask-sklearn
 A simple [Flask](http://flask.pocoo.org/) app - deployed with [Zappa](https://github.com/Miserlou/Zappa) - that returns a prediction using [scikit-learn](https://scikit-learn.org/) simple model. 
 
 
